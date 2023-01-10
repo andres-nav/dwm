@@ -1,0 +1,13 @@
+INSTALLED PATCHES:
+
+- restartsig (https://dwm.suckless.org/patches/restartsig/dwm-restartsig-20180523-6.2.diff)
+- holdbar (https://dwm.suckless.org/patches/holdbar/dwm-holdbar-modkey-6.2.diff)
+- pertag (https://dwm.suckless.org/patches/pertag/dwm-pertag-20200914-61bb8b2.diff)
+- namedscratchpads (https://dwm.suckless.org/patches/namedscratchpads/dwm-namedscratchpads-6.2.diff)
+- alwayscenter (https://dwm.suckless.org/patches/alwayscenter/dwm-alwayscenter-20200625-f04cac6.diff)
+- awesomebar (https://dwm.suckless.org/patches/awesomebar/dwm-awesomebar-20220925-6.3.diff)
+- autostart (https://dwm.suckless.org/patches/autostart/dwm-autostart-20210120-cb3f58a.diff)
+- preserveonrestart (https://dwm.suckless.org/patches/preserveonrestart/dwm-preserveonrestart-6.3.diff)
+- mainmon (https://dwm.suckless.org/patches/mainmon/dwm-mainmon-20220330-bece862.diff)
+- hidevacanttags (https://dwm.suckless.org/patches/hide_vacant_tags/dwm-hide_vacant_tags-6.3.diff)
+
